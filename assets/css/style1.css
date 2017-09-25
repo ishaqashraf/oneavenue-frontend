@@ -1,0 +1,143 @@
+/* row */
+.row {
+    margin: 0px;
+}
+/* Logo */
+.title {
+    height: 53px;
+    text-align: center;
+    margin-top: 26px;
+}
+/* Best way for YouTube */
+.oneAvenue-is-the-best {
+    left: 202px;
+    margin-top: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.182857px;
+    color: #E30A9E;
+}
+/* Creators Need New Revenue */
+.revenue-stream-div {
+    left: 0px;
+    margin-top: 20px;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    background-image: linear-gradient(105deg, #d108dd 0%, #ff0b3a 100%);
+}
+.revenue-stream {
+    left: 42px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.137143px;
+    color: #ffffff;
+}
+.revenue-span {
+    font-size: 18px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    letter-spacing: 0.176327px;
+}
+/* Spend more time crea(all four div) */
+.heading {
+    height: 56px;
+    margin-left: 24px;
+    margin-top: 45px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.0333333px;
+    color: #9013FE;
+}
+/* Fast setup, no maint(all four div) */
+.paragraph {
+    height: 56px;
+    margin-left: 25px;
+    margin-top: 34px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.137143px;
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* We are creators */
+.creators-div {
+    margin-top: 40px;
+    background: linear-gradient(292.68deg, #0D80FF -35.13%, #C800FF 64.87%);
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.creators {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.we-are-creators {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.274286px;
+    color: #FFFFFF;
+}
+.image {
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.about-ceo {
+    margin-left: 42px;
+    margin-top: 26px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    letter-spacing: 0.106667px;
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* About us Contact us */
+.footer {
+    text-align: center;
+}
+.anchor-color {
+    color: #E30A9E
+}
+.about-contact-policy {
+    margin-top: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    letter-spacing: 0.428571px;
+}
+.inc {
+    margin-top: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0.428571px;
+    color: #4A4A4A;
+}
